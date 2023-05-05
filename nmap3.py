@@ -95,7 +95,7 @@ color.GREEN+"""
 [4] [*]"""+color.END+""" Nmap list scan\t\t\t\t\t\t """+color.GREEN+"""[11] [*]"""+color.END+""" Nmap syn Scan"""+color.GREEN+"""
 [5] [*]"""+color.END+""" Nmap Os detection\t\t\t\t\t """+color.GREEN+"""[12] [*]"""+color.END+""" Nmap tcp Scan"""+color.GREEN+"""
 [6] [*]"""+color.END+""" Nmap subnet scan\t\t\t\t\t """+color.GREEN+"""[13] [*]"""+color.END+""" Nmap udp Scan"""+color.GREEN+"""
-[7] [*]"""+color.END+""" Nmap version detection\t\t\t\t\t """+color.GREEN+"""[14] [*]"""+color.RED+"""Exit 
+[7] [*]"""+color.END+""" Nmap version detection\t\t\t\t\t """+color.GREEN+"""[14] [*]"""+color.RED+""" Exit 
 """
 )
 
