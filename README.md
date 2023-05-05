@@ -1,4 +1,4 @@
-# nmap
+# nmap3.py
 
 ![](https://github.com/saricayemre/nmap3/blob/main/screen.PNG)
 
